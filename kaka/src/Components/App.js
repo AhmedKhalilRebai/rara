@@ -3,6 +3,7 @@ import Name from './Name';
 import Price from './Price';
 import Description from './Description';
 import product from './Product';
+import Image from './Image'
 
 const App = () => {
   const [showMessage, setShowMessage] = useState(false);
