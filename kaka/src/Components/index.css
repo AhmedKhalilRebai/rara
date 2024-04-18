@@ -1,0 +1,21 @@
+body{
+    width: 50%;
+    margin: 20px;
+}
+.App{
+    text-align: center;
+}
+img{
+    width: 50%;
+}
+
+    button {
+        font-weight: 700;
+        background: blue;
+        color: white;
+        width: 150px;
+        height: 30px;
+        border: 2px solid black;
+        border-radius: 10px;
+        cursor: pointer;
+    }
